@@ -1,0 +1,8 @@
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajid/AB/BN/BN-4a5edc763604/defects.BN_000.v_B/charge_-1/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajid/AB2/MgI2/MgI2-440644551de5/defects.MgI2_000.Co_I/charge_0/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajsim/AB2/MoS2/MoS2-b3b4685fb6e1/defects.MoS2_000.Ni_S.Mo_S.1-2/charge_0/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajsim/AB/GeS/Ge2S2-ecbb7c185669/defects.S2Ge2_000.Co_Ge.Ge_S.2-1/charge_1/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajfab/AB2/SiS2/Si4S8-69fbe379c2cf/defects.Si2S4Si2S4_000.Co_Si/charge_-1/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajfre/AB2/CaI2/CaI2-ee886d522d75/defects.CaI2_000.N_Ca.Ca_I.0-1/charge_0/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajfab/AB2/MgBr2/MgBr2-702277c8c7ed/defects.MgBr2_000.O_Br.Fe_Mg.1-0/charge_1/full_params/
+/home/niflheim2/cmr/WIP/doubledefects/tree-sajfre/A2B5/V2O5/V4O10-3095e0377954/defects.O3VO2VO5V2_000.O_V.Cr_O.3-2/charge_1/full_params/
