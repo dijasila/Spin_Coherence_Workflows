@@ -37,16 +37,14 @@ git clone git@github.com:dijasila/Spin_Coherence_Workflows.git
 cd Spin_Coherence_Workflows
 Install dependencies: It’s recommended to use a virtual environment.
 
-bash
-Copy code
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
 Usage
 Set Up Your Configuration: Customize the configuration files located in the configs/ directory to specify parameters for your spin simulations.
 Run a Simulation: Execute the main script to start a simulation. For example:
-bash
-Copy code
+
 python main.py --config configs/example_config.json
 Analyze Results: Use the analysis tools to examine the output data, such as coherence times, decay rates, and other metrics.
 Generate Visualizations: Use visualization scripts to create plots and visual summaries of the results.
