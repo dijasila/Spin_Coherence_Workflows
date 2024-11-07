@@ -17,10 +17,13 @@ The workflows are modular, extensible, and optimized for efficiency, enabling re
 
 # Features
 
-Simulation of Spin Dynamics: Tools to simulate time evolution and coherence in spin systems.
-Coherence Metrics: Compute and analyze coherence metrics (e.g., T1, T2 times).
-Visualization Tools: Generate visual representations of spin dynamics and coherence over time.
-Customizable Workflows: Easily extend and adapt workflows for specific research requirements.
+# Simulation of Spin Dynamics: 
+Tools to simulate time evolution and coherence in spin systems.
+# Coherence Metrics: Compute and analyze coherence metrics (e.g., T1, T2 times).
+# Visualization Tools: 
+Generate visual representations of spin dynamics and coherence over time.
+# Customizable Workflows: 
+Easily extend and adapt workflows for specific research requirements.
 
 # Installation
 Prerequisites
