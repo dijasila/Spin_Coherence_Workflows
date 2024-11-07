@@ -31,8 +31,7 @@ Additional dependencies as needed.
 Steps
 Clone the repository:
 
-bash
-Copy code
+
 git clone git@github.com:dijasila/Spin_Coherence_Workflows.git
 cd Spin_Coherence_Workflows
 Install dependencies: It’s recommended to use a virtual environment.
@@ -64,6 +63,7 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and test them thoroughly.
 Submit a pull request with a description of the changes and why they’re beneficial.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
